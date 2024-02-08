@@ -7,5 +7,9 @@ public class Main {
     Machine mac1= new Machine();
     mac1.start();
     mac1.stop();
+
+    System.out.println("norbs was here");
+
+
     }
 }
