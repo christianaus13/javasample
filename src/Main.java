@@ -15,6 +15,6 @@ public class Main {
 
     List<String> names = Arrays.asList("norbs","mark","aus", "jester");
     System.out.println(names);
-
+        System.out.println("aus was here");
     }
 }
